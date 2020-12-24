@@ -1,0 +1,21 @@
+
+h2 {
+  background-color :skyblue;
+  color: maroon;
+
+}
+p{
+  color : blue;
+}
+div h3{
+  color:indigo;
+}
+.title{
+  color: blue;
+}
+.img-myers{
+  width:300px;
+  }
+.img-mine{
+  width: 150px;
+}
